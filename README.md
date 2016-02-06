@@ -46,7 +46,7 @@ GLDTweenのサポートする一般的な数値型であれば、あらゆるプ
 [CocoaPods](http://cocoapods.org/)を使っている場合、以下をPodfileに追加します。
 
 ```ruby
-pod 'GLDTween', '~> 0.0.1'
+pod 'GLDTween', '~> 0.0.2'
 ```
 
 
