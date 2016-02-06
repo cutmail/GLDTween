@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 THE GUILD. All rights reserved.
 //
 
-#import "GLDTweenBLock.h"
+#import "GLDTweenBlock.h"
 
 
 @implementation GLDTweenBlock
